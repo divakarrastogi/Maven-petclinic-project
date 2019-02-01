@@ -8,3 +8,4 @@ services:
 #    build: .
 #    ports:
 #    - "9150:8080"
+#    name chnaged
